@@ -167,6 +167,7 @@
 | [Magic The Gathering](http://magicthegathering.io/)               | 매직: 더 개더링 정보                                                   | ✕               | ✕     | ?    |
 | [Marvel](http://developer.marvel.com)                             | 마블 코믹스                                                            | `apiKey`        | ✕     | ?    |
 | [mod.io](https://docs.mod.io)                                     | 크로스 플랫폼 사이트 모드 API                                          | `apiKey`        | ○     | ?    |
+| [NEXON Open API](https://openapi.nexon.com)                       | 넥슨 게임 API, 메이플스토리, 마비노기, 퍼스트 디센던트 등...             | `apiKey`         | ○     | ?    |
 | [Open Trivia](https://opentdb.com/api_config.php)                 | 잡학 문제                                                              | ✕               | ○     | ?    |
 | [PandaScore](https://api.pandascore.co)                           | E-스포츠 게임과 결과                                                   | `apiKey`        | ○     | ?    |
 | [PlayerUnknown's Battlegrounds](https://pubgtracker.com/site-api) | 배틀그라운드(PUBG) 통계                                                | `apiKey`        | ○     | ?    |
