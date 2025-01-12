@@ -443,7 +443,7 @@
 | [Breaking Bad Quotes](https://github.com/shevabam/breaking-bad-quotes)                             | 브레이킹 배드 대사                                  | ✕               | ○     | ?    |
 | [Czech Television](http://www.ceskatelevize.cz/xml/tv-program/)                                    | 체코 TV의 TV 프로그램                               | ✕               | ✕     | ?    |
 | [Dailymotion](https://developer.dailymotion.com/)                                                  | 데일리모션 개발자 API                               | `OAuth`         | ○     | ?    |
-| [Harry Potter](https://www.potterapi.com/)                                                         | 해라포터 API                                        | `apiKey`        | ○     | ○    |
+| [Harry Potter](https://www.potterapi.com/)                                                         | 해리포터 API                                        | `apiKey`        | ○     | ○    |
 | [Open Movie Database](http://www.omdbapi.com/)                                                     | 영화 정보                                           | `apiKey`        | ○     | ?    |
 | [Ron Swanson Quotes](https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api) | TV                                                  | ✕               | ○     | ?    |
 | [STAPI](http://stapi.co)                                                                           | 스타트랙에 대한 모든 정보                           | ✕               | ✕     | ✕    |
